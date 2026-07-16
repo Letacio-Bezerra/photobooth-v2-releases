@@ -1,5 +1,14 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-07-13T00:00:00Z",
-  "templates": []
+  "generated_at": "2026-07-16T16:40:02Z",
+  "templates": [
+    {
+      "id": "1_foto_horizontal_esquerda",
+      "name": "1 Foto - Horizontal - Esquerda",
+      "version": 1,
+      "archive_url": "https://github.com/Letacio-Bezerra/photobooth-v2-releases/releases/download/template-1_foto_horizontal_esquerda-v1/1_foto_horizontal_esquerda-v1.zip",
+      "sha256": "6114e7543f225b63dc2f3194f5fec8fe7e82e1ecb0d8317b9272e4fe22f00368",
+      "size": 18318
+    }
+  ]
 }
