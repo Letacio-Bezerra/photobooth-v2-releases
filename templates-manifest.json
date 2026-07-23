@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-07-23T21:10:42Z",
+  "generated_at": "2026-07-23T21:11:38Z",
   "templates": [
     {
       "id": "1_foto_horizontal_esquerda",
@@ -73,6 +73,14 @@
       "archive_url": "https://github.com/Letacio-Bezerra/photobooth-v2-releases/releases/download/template-modelo_09_3_fotos-v1/modelo_09_3_fotos-v1.zip",
       "sha256": "c2cd3ea809b7c3e563b802018fefbd7a5f0f837efa8f6d3979e89842635c368f",
       "size": 2271
+    },
+    {
+      "id": "modelo_10_3_fotos",
+      "name": "Modelo 10 - 3 Fotos",
+      "version": 1,
+      "archive_url": "https://github.com/Letacio-Bezerra/photobooth-v2-releases/releases/download/template-modelo_10_3_fotos-v1/modelo_10_3_fotos-v1.zip",
+      "sha256": "143a3176ca737b8322d7d0692da91c5f15738f04bf57e8a3af84e8b67b94aabf",
+      "size": 2348
     }
   ]
 }
