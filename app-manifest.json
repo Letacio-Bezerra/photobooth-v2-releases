@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.6",
+  "latest_version": "1.0.7",
   "minimum_supported_version": "1.0.0",
-  "download_url": "https://github.com/Letacio-Bezerra/photobooth-v2-releases/releases/download/v1.0.6/PhotoBooth-V2-1.0.6.zip",
-  "sha256": "b3c6e612724fe9427fe7f95dfee46abb0afdc6cc7813d165d91043d34f92a851",
-  "size": 164537820,
+  "download_url": "https://github.com/Letacio-Bezerra/photobooth-v2-releases/releases/download/v1.0.7/PhotoBooth-V2-1.0.7.zip",
+  "sha256": "90564c00e0807326d93bf08c6d645826aaac6f55dde85e86485bd1448f4909b7",
+  "size": 164542882,
   "release_notes": [
-    "Versão 1.0.6 do PhotoBooth V2"
+    "Versão 1.0.7 do PhotoBooth V2"
   ]
 }
